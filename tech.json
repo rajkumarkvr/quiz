@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High-Level Text Management Language",
+      "HyperTransfer Markup Language",
+      "HyperText Makeup Language"
+    ],
+    "answer_index": 0,
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "question": "Which programming language is often used for building mobile applications?",
+    "options": ["Java", "Swift", "Python", "Ruby"],
+    "answer_index": 1,
+    "answer": "Swift"
+  },
+  {
+    "question": "What is the purpose of a CSS (Cascading Style Sheets)?",
+    "options": [
+      "To define the structure of a webpage",
+      "To provide interactivity on a webpage",
+      "To style the visual presentation of a webpage",
+      "To handle server-side logic"
+    ],
+    "answer_index": 2,
+    "answer": "To style the visual presentation of a webpage"
+  },
+  {
+    "question": "Which company developed the popular programming language JavaScript?",
+    "options": ["Microsoft", "Apple", "Mozilla", "Google"],
+    "answer_index": 2,
+    "answer": "Mozilla"
+  },
+  {
+    "question": "What does the acronym VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Very Personal Network",
+      "Virtual Programming Network",
+      "Visual Processing Node"
+    ],
+    "answer_index": 0,
+    "answer": "Virtual Private Network"
+  }
+]
